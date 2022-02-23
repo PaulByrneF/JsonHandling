@@ -1,0 +1,85 @@
+{
+  "articles": [
+    {
+      "article_id": 1,
+      "article_name": "Harry Potter - Order of Pheonix",
+      "publisher": {
+        "first_name": "Jonah",
+        "last_name": "Rowling",
+        "age": 54
+      },
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "I wish it had of been longer"
+        },
+        {
+          "rating": 7,
+          "comment": "I wish it had of been excellent"
+        },
+        {
+          "rating": 1,
+          "comment": "I wish it had of been better"
+        },
+        {
+          "rating": 2,
+          "comment": "I wish it had of been shorter"
+        }
+      ]
+    },
+    {
+      "article_id": 2,
+      "article_name": "Harry Potter - Prisoner of Azkaban",
+      "publisher": {
+        "first_name": "JJR",
+        "last_name": "Rowling",
+        "age": 24
+      },
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "I wish it had of been longer"
+        },
+        {
+          "rating": 2,
+          "comment": "I wish it had of been excellent"
+        },
+        {
+          "rating": 4,
+          "comment": "I wish it had of been better"
+        },
+        {
+          "rating": 5,
+          "comment": "I wish it had of been shorter"
+        }
+      ]
+    },
+    {
+      "article_id": 3,
+      "article_name": "Lord Of The Rings - Prisoner of Azkaban",
+      "publisher": {
+        "first_name": "JJR",
+        "last_name": "Tolkien",
+        "age": 75
+      },
+      "reviews": [
+        {
+          "rating": 9,
+          "comment": "I loved this movie"
+        },
+        {
+          "rating": 2,
+          "comment": "This movie was excellent"
+        },
+        {
+          "rating": 7,
+          "comment": "This was unbelievable"
+        },
+        {
+          "rating": 5,
+          "comment": "Best movie I have ever seeen"
+        }
+      ]
+    }
+  ]
+}
